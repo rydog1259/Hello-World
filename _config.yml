@@ -1,1 +1,51 @@
 theme: jekyll-theme-slate
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+	
+
+Bernard George Investigations, a California Professional Licensed Private Investigation Agency - Since 1986
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+ Licensed
+ California Private Investigator License Numbers PI 11452
+ Bringing you blue ribbon investigative services
+ Experience, Excellence
+ Timely, Thorough, Trustworthy
+ Discreet, Dependable
+ Results you can trust. Results you can count on.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+Contact Information: 
+1223 Wilshire Blvd. #860                      Phone: (310) 260-7666
+Santa Monica, CA 90403-5400          Toll Free: (800) 559-8118
+Bernard@BernardGeorge.com                   Fax: (310) 260-7670
